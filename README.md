@@ -17,3 +17,4 @@ Concatena esse resto à esquerda da String de resultado.
 Divide o número por 2 (numero /= 2) até que ele chegue a 0.
 
 Exibe o resultado final no console.
+
